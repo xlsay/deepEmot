@@ -1,0 +1,4 @@
+sudo apt-get install ffmpeg
+pip install deepface
+pip install Pillow==9.5
+pip install ffmpy
