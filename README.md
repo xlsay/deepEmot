@@ -30,8 +30,8 @@
 ### 赞助
 如果你觉得这个项目对你有帮助，请给我一个star，或一点点扫码支持，非常感谢 :pray:。
 <p>
-   <img height="400" src="./figs/zfb.jpg"></a>
-   <img height="400" src="./figs/wx.jpg"></a>
+   <img height="350" src="./figs/zfb.jpg"></a>
+   <img height="350" src="./figs/wx.jpg"></a>
 </p>
 
 
