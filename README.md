@@ -21,17 +21,3 @@
 - [ ] 识别情绪结果统计。
 - [ ] 只识别指定人的情绪。
 
-
-### 互动
-- :raising_hand: 若有问题，欢迎提issue。
-- :e-mail: 若有定制化需求，欢迎发邮件给我： wxl_zhile@sina.cn 。
-
-
-<!-- ### 赞助
-如果你觉得这个项目对你有帮助，请给我一个star，或一点点扫码支持，非常感谢 :pray:。
-<p>
-   <img height="350" src="./figs/zfb.jpg"></a>
-   <img height="350" src="./figs/wx.jpg"></a>
-</p> -->
-
-
